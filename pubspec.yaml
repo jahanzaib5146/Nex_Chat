@@ -1,0 +1,46 @@
+name: nex_chat
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  image_picker: any
+  shared_preferences: any
+  web_socket_channel: ^3.0.3
+  http: any
+  file_picker: ^10.3.10
+  open_file: ^3.5.11
+  dio: ^5.9.1
+  path_provider: ^2.1.5  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_native_splash: ^2.4.7
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets\images\icons8-chat-100.png 
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets\images\icons8-chat-100.png
+  android: true
+ 
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    
