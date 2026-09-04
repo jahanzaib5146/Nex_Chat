@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nex_chat
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Nex_Chat
+>>>>>>> 84d20de54e2f8fd3367a2349b0034727092be0d2
